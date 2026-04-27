@@ -1,0 +1,12 @@
+INVITACIÓN BABY SHOWER - CONEJITA ROSA CON BOTONES VERDES
+
+Cambios incluidos:
+- Botón principal ahora dice: Ver ubicación.
+- Botones en color verde.
+- Animación de confetti/cintas al abrir la caja.
+- Imagen de conejita incluida.
+
+Para cambiar la ubicación:
+1. Abrí index.html.
+2. Buscá https://maps.google.com/
+3. Reemplazalo por el enlace real de Google Maps del lugar.
